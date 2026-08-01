@@ -33,7 +33,7 @@ An AI chatbot built with n8n that supports:
 
 ## 📷 Workflow
 
-(Add workflow screenshot here)
+![Workflow](Screenshot%202026-08-02%20001409.png)
 
 ---
 
